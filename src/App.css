@@ -1,0 +1,10 @@
+/* title font style and font size css */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@600;700&display=swap');
+
+.bigTitle{
+     background-image: linear-gradient(to right, rgba(96, 77, 188, 1), rgba(21, 232, 186, 1));
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+}
+
