@@ -10,7 +10,7 @@
 
 
 .bgGradient {
-     background-image: linear-gradient(to right, rgba(96, 77, 188, 1), rgba(21, 232, 186, 1));
+     background-image: linear-gradient(to right bottom, rgba(21, 232, 186, 1), rgba(96, 77, 188, 1));
 }
 
 
