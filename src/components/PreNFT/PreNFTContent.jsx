@@ -5,7 +5,7 @@ import image4 from '../../assets/image4.png';
 import image5 from '../../assets/image5.png';
 const PreNFTContent = () => {
     return (
-        <div className="lg:flex gap-6 items-center px-8 lg:px-14 py-5 lg:py-2  rounded-3xl text-[#07070f] font-Montserrat mx-5 bgGradient mt-28 max-h-[550px]  ">
+        <div className="lg:flex gap-6 items-center  lg:mx-16 px-8 lg:px-14 py-5 lg:py-2  rounded-3xl text-[#07070f] font-Montserrat mx-5 bgGradient mt-28 max-h-[550px]  ">
             <div className="w-full lg:w-5/12 text-center lg:text-start">
                 <h2 className="text-xl lg:text-3xl font-semibold">Pre-NFT Content and Rights Marketplace </h2>
                 <h6 className="font-semibold text-lg lg:text-xl my-5">A first of its kind platform that  discovers and supports global talent across multiple domains, now live! </h6>

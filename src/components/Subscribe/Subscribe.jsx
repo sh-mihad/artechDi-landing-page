@@ -1,7 +1,7 @@
 import { FaGoogle } from "react-icons/fa";
 const Subscribe = () => {
     return (
-        <div className="mx-5">
+        <div className="mx-5 lg:mx-16">
             <h5 className="font-Montserrat text-lg font-semibold text-blue-400">Know about the launch before everyone else</h5>
             <div className="w-full block lg:flex my-6 items-center gap-10">
                 <div className="w-full lg:w-6/12">
