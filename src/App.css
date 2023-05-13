@@ -13,6 +13,10 @@
      background-image: linear-gradient(to right bottom, rgba(21, 232, 186, 1), rgba(96, 77, 188, 1));
 }
 
+.bgGradientSecendory {
+     background-image: linear-gradient(to top  left, #8EC0D7,#7F9ECF,#5E4CB6);
+}
+
 
 /* hero bg image */
 
