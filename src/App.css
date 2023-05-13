@@ -16,6 +16,9 @@
 .bgGradientSecendory {
      background-image: linear-gradient(to top  left, #8EC0D7,#7F9ECF,#5E4CB6);
 }
+.bgGradientButton {
+     background-image: linear-gradient(to left, #604DBC,#38A1BB,#38A1BB);
+}
 
 
 /* hero bg image */
