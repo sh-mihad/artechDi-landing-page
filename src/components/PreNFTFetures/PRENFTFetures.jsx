@@ -50,7 +50,7 @@ const PRENFTFetures = () => {
                 <p className="text-3xl text-center my-10 text-blue-500 font-Montserrat  ">These are the different types of NFT rights you can sell</p>
 
             </div>
-            <div className="my-20 mx-10  grid grid-cols-1 lg:grid-cols-3 gap-10 lg:w-9/12 lg:mx-auto">
+            <div className="my-20 mx-10   grid grid-cols-1 lg:grid-cols-3 gap-10 lg:w-9/12 lg:mx-auto">
                {
                 cardData?.map(cData=><PreNFTFeruresCard key={cData.id} cData={cData}/>)
                }

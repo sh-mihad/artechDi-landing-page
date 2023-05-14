@@ -9,6 +9,7 @@
 }
 
 
+
 .bgGradient {
      background-image: linear-gradient(to right bottom, rgba(21, 232, 186, 1), rgba(96, 77, 188, 1));
 }
@@ -24,7 +25,7 @@
 /* hero bg image */
 
 .heroSec {
-     background-image: url('./Hero Image BG.png');
+     background-image: url('./HeroImageBG.png');
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
@@ -34,4 +35,17 @@
      background-position: center;
      background-repeat: no-repeat;
      background-size: cover;
+}
+
+.cardOutline{
+     background-image:url('./cardOutline1.png');
+     background-repeat: no-repeat;
+     background-clip: content-box;
+     background-size: 100% 100%;
+}
+.cardOutlin2{
+     background-image:url('./cardOutline2.png');
+     background-repeat: no-repeat;
+     background-clip: content-box;
+     background-size: 100% 100%;
 }

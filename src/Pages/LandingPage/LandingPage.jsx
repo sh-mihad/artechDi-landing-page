@@ -12,7 +12,7 @@ const LandingPage = () => {
     return (
         <>
             <Hero />
-            <main className="py-16 subBg">
+            <main className="py-16 ">
                 <Subscribe />
                 <PreNFTContent />
                 <SimplicityJargon />
