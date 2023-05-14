@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
     return (
         <div className="navbar lg:bg-none  text-white font-Montserrat">
@@ -7,8 +9,8 @@ const Navbar = () => {
         <div className="flex-none gap-2">
             <div className="flex-none hidden lg:block">
                 <ul className="menu menu-horizontal px-1">
-                    <li><a>Home</a></li>
-                    <li><a>Key Fetures</a></li>
+                    <li><Link to="/">Home</Link></li>
+                    <li><Link to="/fetures">Key Fetures</Link></li>
                     <li><a>Pre-NFT-Rights</a></li>
                     <li><a>MarketPlace</a></li>
                     <li className="bigTitle"><a>Login</a></li>
